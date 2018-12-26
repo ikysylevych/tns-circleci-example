@@ -1,0 +1,21 @@
+{
+    "android27": {
+        "platformName": "Android",
+        "platformVersion": "27",
+        "deviceName": "Emulator-Api27-Google",
+        "avd": "Emulator-Api27-Google",
+        "lt": 60000,
+        "newCommandTimeout": 720,
+        "noReset": true,
+        "fullReset": false,
+        "app": ""
+    },
+    "sim.iPhone8": {
+        "platformName": "iOS",
+        "platformVersion": "12.1",
+        "deviceName": "iPhone 8",
+        "noReset": false,
+        "fullReset": true,
+        "app": ""
+    }
+}
